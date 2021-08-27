@@ -7,7 +7,7 @@ Here are my attempts to translate the artworks from [Generative Artistry] into
 
 ### Tiled Lines
 
-TODO
+<img alt="Joy Division" src="https://raw.githubusercontent.com/dawranliou/sketch/main/img-1630107022142-1050879010481460-640.png" width="320">
 
 ### Joy Division
 
