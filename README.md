@@ -1,18 +1,53 @@
-# sketch
+# Sketches done in Clojure Quil + Processing
 
-A Quil sketch designed to ... well, that part is up to you.
+## Generative Artistry
 
-## Usage
+Here are my attempts to translate the artworks from [Generative Artistry] into
+[Clojure] code, using [Processing] and [quil].
 
-LightTable - open `core.clj` and press `Ctrl+Shift+Enter` to evaluate the file.
+### Tiled Lines
 
-Emacs - run cider, open `core.clj` and press `C-c C-k` to evaluate the file.
+TODO
 
-REPL - run `(require 'sketch.core)`.
+### Joy Division
+
+<img alt="Joy Division" src="https://raw.githubusercontent.com/dawranliou/sketch/main/img-1630106549191-1050879010481460-640.png" width="320">
+
+### Cubic Disarray
+
+TODO
+
+### Triangular Mesh
+
+TODO
+
+### Un Deux Trois
+
+TODO
+
+### Circle Packing
+
+TODO
+
+### Hypnotic Squares
+
+TODO
+
+### Piet Mondrian
+
+TODO
+
+### Hours of Dark
+
+TODO
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2021 Daw-Ran Liou
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the MIT License
+
+[Generative Artistry]:https://generativeartistry.com/
+[Processing]:https://processing.org/
+[Clojure]:https://clojure.org/
+[quil]:http://quil.info/
