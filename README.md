@@ -1,9 +1,18 @@
 # Sketches done in Clojure Quil + Processing
 
+This is my on-going sketchbook for learning and exploring generative art using:
+
+- [Clojure]: my favourate programming language!
+- [Processing]: Java library for visual arts,
+- [quil]: Clojure adaptor to Processing.
+
+Special thanks to [Tyler Hobbs] (Twitter @tylerxhobbs) for inspiring me and
+detailing he's workflow on the internet!
+
 ## Generative Artistry
 
 Here are my attempts to translate the artworks from [Generative Artistry] into
-[Clojure] code, using [Processing] and [quil].
+[Clojure] code.
 
 ### Tiled Lines
 
@@ -51,3 +60,4 @@ Distributed under the MIT License
 [Processing]:https://processing.org/
 [Clojure]:https://clojure.org/
 [quil]:http://quil.info/
+[Tyler Hobbs]:https://tylerxhobbs.com/about
