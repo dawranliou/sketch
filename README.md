@@ -24,7 +24,7 @@ Here are my attempts to translate the artworks from [Generative Artistry] into
 
 ### Cubic Disarray
 
-TODO
+<img alt="Joy Division" src="https://raw.githubusercontent.com/dawranliou/sketch/main/img-1630261409013-1050879010481460.png" width="320">
 
 ### Triangular Mesh
 
