@@ -16,6 +16,7 @@
 (defn setup []
   (q/frame-rate 1)
   (q/smooth)
+  (q/stroke-weight (w (/ 1 320)))
   (q/color-mode :hsb 360 100 100 1.0))
 
 (defn draw-square [x y size]
@@ -64,11 +65,11 @@
 (comment
 
   ;; Generate a new sketch
-  (def sketch (create-sketch {:size 320}))
+  (def sketch (create-sketch {}))
 
   ;; Save working image to disk
   (qa/with-applet sketch
-    (q/save (format "img-%s-%s.png" (System/currentTimeMillis) *seed*)))
+    (q/save (format "img-%s-%s-%s.png" (System/currentTimeMillis) *seed* (q/width))))
 
   ;; Generate a production image (10800 x 10800 pixels)
   (create-sketch {:size  10800

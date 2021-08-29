@@ -17,6 +17,7 @@
 (defn setup []
   (q/frame-rate 1)
   (q/smooth)
+  (q/stroke-weight (w (/ 1 320)))
   (q/color-mode :hsb 360 100 100 1.0))
 
 (defn diagonal-line [x y w h]

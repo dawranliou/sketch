@@ -16,7 +16,7 @@ Here are my attempts to translate the artworks from [Generative Artistry] into
 
 ### Tiled Lines
 
-<img alt="Joy Division" src="https://raw.githubusercontent.com/dawranliou/sketch/main/img-1630107022142-1050879010481460-640.png" width="320">
+<img alt="Joy Division" src="https://raw.githubusercontent.com/dawranliou/sketch/main/img-1630270102280-1050879010481460-640.png" width="320">
 
 ### Joy Division
 
@@ -24,7 +24,7 @@ Here are my attempts to translate the artworks from [Generative Artistry] into
 
 ### Cubic Disarray
 
-<img alt="Joy Division" src="https://raw.githubusercontent.com/dawranliou/sketch/main/img-1630261409013-1050879010481460.png" width="320">
+<img alt="Joy Division" src="https://raw.githubusercontent.com/dawranliou/sketch/main/img-1630261804841-1050879010481460-640.png" width="320">
 
 ### Triangular Mesh
 
