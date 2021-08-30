@@ -28,7 +28,7 @@ Here are my attempts to translate the artworks from [Generative Artistry] into
 
 ### Triangular Mesh
 
-<img alt="Joy Division" src="https://raw.githubusercontent.com/dawranliou/sketch/main/img-1630294900845-1050879010481460-640.png" width="320">
+<img alt="Joy Division" src="https://raw.githubusercontent.com/dawranliou/sketch/main/img-1630296013779-1050879010481460-640.png" width="320">
 
 ### Un Deux Trois
 

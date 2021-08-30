@@ -43,16 +43,16 @@
                (for [x      (iterate +gap (/ gap 4))
                      :while (<= x *size*)]
                  [(+ x
-                     (* (- (q/random 0.5) 0.25) gap)
+                     (* (- (* (q/random 1.0) 0.5) 0.25) gap)
                      (if (odd? i) 0 (/ gap 2)))
                   (+ y
-                     (* (- (q/random 0.5) 0.25) gap))]))]
+                     (* (- (* (q/random 1.0) 0.5) 0.25) gap))]))]
     (doseq [[line1 line2] (partition 2 1 grid)
             :let          [points (->> (concat line1 line2)
                                        (sort-by first))]]
       (q/begin-shape :triangle-strip)
       (doseq [[x y] points
-              :let  [gray (Math/floor (q/random 16))]]
+              :let  [gray (Math/floor (* (q/random 1.0) 16))]]
         (q/fill gray)
         (q/vertex x y))
       (q/end-shape))))
