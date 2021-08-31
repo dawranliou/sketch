@@ -10,15 +10,15 @@
 (defn w [n]
   (* *size* n))
 
-(defn with-bindings [options]
+(defn use-bindings [options]
   (let [draw (:draw options (fn []))]
-    (assoc options :draw (fn bindings []
+    (assoc options :draw (fn []
                            (binding [*size* (q/width)]
                              (draw))))))
 
-(defn with-re-seed [options]
+(defn use-seed [options]
   (let [draw (:draw options (fn []))]
-    (assoc options :draw (fn re-seed []
+    (assoc options :draw (fn []
                            (q/random-seed *seed*)
                            (draw)))))
 
@@ -27,10 +27,6 @@
   (q/smooth)
   (q/stroke-weight (w (/ 1 320)))
   (q/color-mode :hsb 16))               ; To draw 16 shades of grays
-
-(defn draw-triangle [p1 p2 p3]
-  (q/begin-shape :triangle)
-  (q/vertex ))
 
 (defn draw []
   (q/background 16)
@@ -64,7 +60,7 @@
             :size [size size]
             :setup setup
             :draw #'draw
-            :middleware [with-bindings with-re-seed]))
+            :middleware [use-bindings use-seed]))
 
 (defonce sketch (create-sketch {}))
 
