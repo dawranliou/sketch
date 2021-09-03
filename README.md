@@ -36,7 +36,7 @@ Here are my attempts to translate the artworks from [Generative Artistry] into
 
 ### Circle Packing
 
-TODO
+<img alt="Circle Packing" src="https://raw.githubusercontent.com/dawranliou/sketch/main/img-1630700418490-1050879010481460-640.png" width="320">
 
 ### Hypnotic Squares
 
