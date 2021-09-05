@@ -40,11 +40,11 @@ Here are my attempts to translate the artworks from [Generative Artistry] into
 
 ### Hypnotic Squares
 
-<img alt="Circle Packing" src="https://raw.githubusercontent.com/dawranliou/sketch/main/img-1630850769862-1050879010481460-640.png" width="320">
+<img alt="Hypnotic Squares" src="https://raw.githubusercontent.com/dawranliou/sketch/main/img-1630850769862-1050879010481460-640.png" width="320">
 
 ### Piet Mondrian
 
-TODO
+<img alt="Piet Mondrian" src="https://raw.githubusercontent.com/dawranliou/sketch/main/img-1630859405731-1050879010481460-640.png" width="320">
 
 ### Hours of Dark
 

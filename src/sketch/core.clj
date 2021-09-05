@@ -13,6 +13,14 @@
   ([] (random 1.0))
   ([n] (* (q/random 1.0) n)))
 
+(defn random-int
+  [n]
+  (int (random n)))
+
+(defn random-nth
+  [coll]
+  (nth coll (random-int (count coll))))
+
 ;; Middlewares
 
 (defn use-bindings [options]
