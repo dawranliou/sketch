@@ -48,7 +48,7 @@ Here are my attempts to translate the artworks from [Generative Artistry] into
 
 ### Hours of Dark
 
-TODO
+<img alt="Hours of Dark" src="https://raw.githubusercontent.com/dawranliou/sketch/main/img-1630894243638-1050879010481460-640.png" width="320">
 
 ## License
 
