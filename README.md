@@ -50,6 +50,16 @@ Here are my attempts to translate the artworks from [Generative Artistry] into
 
 <img alt="Hours of Dark" src="https://raw.githubusercontent.com/dawranliou/sketch/main/img-1630894243638-1050879010481460-640.png" width="320">
 
+## Watercolor study
+
+Watercolor #1
+
+<img alt="Watercolor #1" src="https://raw.githubusercontent.com/dawranliou/sketch/main/img-1632000044304-1050879010481460-640.png" width="320">
+
+Watercolor #2
+
+<img alt="Watercolor #2" src="https://raw.githubusercontent.com/dawranliou/sketch/main/img-1632196801519-1050879010481460-640.png" width="320">
+
 ## License
 
 Copyright © 2021 Daw-Ran Liou
